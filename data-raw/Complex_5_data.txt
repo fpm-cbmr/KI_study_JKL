@@ -1,0 +1,21 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:823	ATP5F1A	ATP synthase F1 subunit alpha	ATP5AL2,ATPM,ATP5A1	ATP5A,hATP1,OMR,ORM	18q21.1
+HGNC:830	ATP5F1B	ATP synthase F1 subunit beta	ATPSB,ATP5B		12q13.3
+HGNC:833	ATP5F1C	ATP synthase F1 subunit gamma	ATP5CL1,ATP5C,ATP5C1		10p14
+HGNC:837	ATP5F1D	ATP synthase F1 subunit delta	ATP5D		19p13.3
+HGNC:838	ATP5F1E	ATP synthase F1 subunit epsilon	ATP5E		20q13.32
+HGNC:841	ATP5MC1	ATP synthase membrane subunit c locus 1	ATP5G,ATP5G1		17q21.32
+HGNC:842	ATP5MC2	ATP synthase membrane subunit c locus 2	ATP5G2		12q13.13
+HGNC:843	ATP5MC3	ATP synthase membrane subunit c locus 3	ATP5G3		2q31.1
+HGNC:846	ATP5ME	ATP synthase membrane subunit e	ATP5I		4p16.3
+HGNC:848	ATP5MF	ATP synthase membrane subunit f	ATP5J2	ATP5JL	7q22.1
+HGNC:14247	ATP5MG	ATP synthase membrane subunit g	ATP5L	ATP5JG	11q23.3
+HGNC:1188	ATP5MJ	ATP synthase membrane subunit j	C14orf2,ATP5MPL	MP68,MLQ,6.8PL	14q32.33
+HGNC:30889	ATP5MK	ATP synthase membrane subunit k	USMG5,ATP5MD	MGC14697,bA792D24.4,DAPIT,AGP	10q24.33
+HGNC:7414	MT-ATP6	mitochondrially encoded ATP synthase membrane subunit 6	MTATP6,RP	ATP6,ATPase-6,Su6m	mitochondria
+HGNC:7415	MT-ATP8	mitochondrially encoded ATP synthase membrane subunit 8	MTATP8	ATP8,A6L,URFA6L	mitochondria
+HGNC:840	ATP5PB	ATP synthase peripheral stalk-membrane subunit b	ATP5F1		1p13.2
+HGNC:845	ATP5PD	ATP synthase peripheral stalk subunit d	ATP5H	ATPQ,ATP5JD	17q25.1
+HGNC:847	ATP5PF	ATP synthase peripheral stalk subunit F6	ATP5A,ATP5,ATPM,ATP5J	CF6	21q21.3
+HGNC:850	ATP5PO	ATP synthase peripheral stalk subunit OSCP	ATP5O	OSCP,ATPO	21q22.11
+HGNC:871	ATP5IF1	ATP synthase inhibitory factor subunit 1	ATPIF1	ATPI,IP,ATPIP,MGC1167,MGC8898	1p35.3

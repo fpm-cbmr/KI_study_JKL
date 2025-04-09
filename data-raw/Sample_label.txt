@@ -1,0 +1,17 @@
+Sample_ID	Condition
+S01	DK2_Scr_basal
+S02	DK2_Scr_Insulin
+S03	DK2_AMPKy3_basal
+S04	DK2_AMPKy3_Insulin
+S05	DK9_Scr_basal
+S06	DK9_Scr_Insulin
+S07	DK9_AMPKy3_basal
+S08	DK9_AMPKy3_Insulin
+S09	OMB_Scr_basal
+S10	OMB_Scr_Insulin
+S11	OMB_AMPKy3_basal
+S12	OMB_AMPKy3_Insulin
+S13	OGT_Scr_basal
+S14	OGT_Scr_Insulin
+S15	OGT_AMPKy3_basal
+S16	OGT_AMPKy3_Insulin

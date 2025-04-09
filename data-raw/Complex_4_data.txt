@@ -1,0 +1,20 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:2265	COX4I1	cytochrome c oxidase subunit 4I1	COX4	COX4-1,COXIV,COXIV-1	16q24.1
+HGNC:16232	COX4I2	cytochrome c oxidase subunit 4I2	COX4L2	COXIV-2,COX4B,dJ857M17.2,COX4-2	20q11.21
+HGNC:2267	COX5A	cytochrome c oxidase subunit 5A		COX-VA	15q24.2
+HGNC:2269	COX5B	cytochrome c oxidase subunit 5B			2q11.2
+HGNC:2277	COX6A1	cytochrome c oxidase subunit 6A1	COX6A	COX6AL	12q24.31
+HGNC:2279	COX6A2	cytochrome c oxidase subunit 6A2		COX6AH,COXVIAH,COXVIa-M	16p11.2
+HGNC:2280	COX6B1	cytochrome c oxidase subunit 6B1	COX6B	COXG	19q13.12
+HGNC:24380	COX6B2	cytochrome c oxidase subunit 6B2		COXVIB2,FLJ32865,CT59	19q13.42
+HGNC:2285	COX6C	cytochrome c oxidase subunit 6C			8q22.2
+HGNC:2287	COX7A1	cytochrome c oxidase subunit 7A1	COX7A	COX7AH	19q13.12
+HGNC:2288	COX7A2	cytochrome c oxidase subunit 7A2		COXVIIa-L,COX7AL	6q14.1
+HGNC:2291	COX7B	cytochrome c oxidase subunit 7B			Xq21.1
+HGNC:24381	COX7B2	cytochrome c oxidase subunit 7B2			4p12
+HGNC:2292	COX7C	cytochrome c oxidase subunit 7C			5q14.3
+HGNC:2294	COX8A	cytochrome c oxidase subunit 8A	COX8	COX8-2,COX8L,VIII-L,COX,VIII	11q13.1
+HGNC:24382	COX8C	cytochrome c oxidase subunit 8C		COX8-3	14q32.12
+HGNC:7419	MT-CO1	mitochondrially encoded cytochrome c oxidase I	MTCO1	COX1,COI	mitochondria
+HGNC:7421	MT-CO2	mitochondrially encoded cytochrome c oxidase II	MTCO2	COX2,CO2	mitochondria
+HGNC:7422	MT-CO3	mitochondrially encoded cytochrome c oxidase III	MTCO3	COX3,COIII,CO3	mitochondria

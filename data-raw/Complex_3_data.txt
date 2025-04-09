@@ -1,0 +1,11 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:12582	UQCRB	ubiquinol-cytochrome c reductase binding protein	UQBP	QP-C,QCR7,UQCR6	8q22.1
+HGNC:29594	UQCRQ	ubiquinol-cytochrome c reductase complex III subunit VII		QP-C,QCR8,UQCR7	5q31.1
+HGNC:12585	UQCRC1	ubiquinol-cytochrome c reductase core protein 1		D3S3191,QCR1,UQCR1	3p21.31
+HGNC:12586	UQCRC2	ubiquinol-cytochrome c reductase core protein 2		QCR2,UQCR2	16p12.2
+HGNC:7427	MT-CYB	mitochondrially encoded cytochrome b	MTCYB	COB,CYTB,UQCR3	mitochondria
+HGNC:2579	CYC1	cytochrome c1		UQCR4	8q24.3
+HGNC:12587	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1		RIS1,RIP1,UQCR5,RISP	19q12
+HGNC:12590	UQCRH	ubiquinol-cytochrome c reductase hinge protein		QCR6,UQCR8	1p33
+HGNC:30863	UQCR10	ubiquinol-cytochrome c reductase, complex III subunit X		HSPC051,UCRC,QCR9,UCCR7.2	22q12.2
+HGNC:30862	UQCR11	ubiquinol-cytochrome c reductase, complex III subunit XI	UQCR	QCR10	19p13.3

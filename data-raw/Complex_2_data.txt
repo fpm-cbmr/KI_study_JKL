@@ -1,0 +1,5 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome
+HGNC:10680	SDHA	succinate dehydrogenase complex flavoprotein subunit A	SDH2	FP,SDHF	5p15.33
+HGNC:10681	SDHB	succinate dehydrogenase complex iron sulfur subunit B	SDH1,SDH		1p36.13
+HGNC:10682	SDHC	succinate dehydrogenase complex subunit C	PGL3	CYB560,cybL	1q23.3
+HGNC:10683	SDHD	succinate dehydrogenase complex subunit D	PGL,PGL1	cybS	11q23.1

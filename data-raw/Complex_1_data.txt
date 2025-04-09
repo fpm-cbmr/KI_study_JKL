@@ -1,0 +1,45 @@
+HGNC ID (gene)	Approved symbol	Approved name	Previous symbols	Aliases	Chromosome	Group
+HGNC:7455	MT-ND1	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 1	MTND1		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7456	MT-ND2	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 2	MTND2		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7458	MT-ND3	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 3	MTND3		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7459	MT-ND4	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4	MTND4,LHON		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7460	MT-ND4L	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 4L	MTND4L		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7461	MT-ND5	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 5	MTND5		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7462	MT-ND6	mitochondrially encoded NADH:ubiquinone oxidoreductase core subunit 6	MTND6		mitochondria	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7707	NDUFS1	NADH:ubiquinone oxidoreductase core subunit S1			2q33.3	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7708	NDUFS2	NADH:ubiquinone oxidoreductase core subunit S2			1q23.3	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7710	NDUFS3	NADH:ubiquinone oxidoreductase core subunit S3			11p11.2	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7714	NDUFS7	NADH:ubiquinone oxidoreductase core subunit S7			19p13.3	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7715	NDUFS8	NADH:ubiquinone oxidoreductase core subunit S8			11q13.2	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7716	NDUFV1	NADH:ubiquinone oxidoreductase core subunit V1			11q13.2	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7717	NDUFV2	NADH:ubiquinone oxidoreductase core subunit V2			18p11.22	NADH:ubiquinone oxidoreductase core subunits
+HGNC:7694	NDUFAB1	NADH:ubiquinone oxidoreductase subunit AB1			16p12.2	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7683	NDUFA1	NADH:ubiquinone oxidoreductase subunit A1			Xq24	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7685	NDUFA2	NADH:ubiquinone oxidoreductase subunit A2			5q31.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7686	NDUFA3	NADH:ubiquinone oxidoreductase subunit A3			19q13.42	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7688	NDUFA5	NADH:ubiquinone oxidoreductase subunit A5			7q31.32	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7690	NDUFA6	NADH:ubiquinone oxidoreductase subunit A6			22q13.2	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7691	NDUFA7	NADH:ubiquinone oxidoreductase subunit A7			19p13.2	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7692	NDUFA8	NADH:ubiquinone oxidoreductase subunit A8			9q33.2	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7693	NDUFA9	NADH:ubiquinone oxidoreductase subunit A9	NDUFS2L		12p13.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7684	NDUFA10	NADH:ubiquinone oxidoreductase subunit A10			2q37.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:20371	NDUFA11	NADH:ubiquinone oxidoreductase subunit A11			19p13.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:23987	NDUFA12	NADH:ubiquinone oxidoreductase subunit A12			12q22	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:17194	NDUFA13	NADH:ubiquinone oxidoreductase subunit A13			19p13.11	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7695	NDUFB1	NADH:ubiquinone oxidoreductase subunit B1			14q31.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7697	NDUFB2	NADH:ubiquinone oxidoreductase subunit B2			7q34	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7698	NDUFB3	NADH:ubiquinone oxidoreductase subunit B3			2q33.1	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7699	NDUFB4	NADH:ubiquinone oxidoreductase subunit B4			3q13.33	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7700	NDUFB5	NADH:ubiquinone oxidoreductase subunit B5			3q26.33	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7701	NDUFB6	NADH:ubiquinone oxidoreductase subunit B6			9p21.1	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7702	NDUFB7	NADH:ubiquinone oxidoreductase subunit B7			19p13.12	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7703	NDUFB8	NADH:ubiquinone oxidoreductase subunit B8			10q24.31	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7704	NDUFB9	NADH:ubiquinone oxidoreductase subunit B9			8q24.13	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7696	NDUFB10	NADH:ubiquinone oxidoreductase subunit B10			16p13.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:20372	NDUFB11	NADH:ubiquinone oxidoreductase subunit B11			Xp11.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7705	NDUFC1	NADH:ubiquinone oxidoreductase subunit C1			4q31.1	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7706	NDUFC2	NADH:ubiquinone oxidoreductase subunit C2			11q14.1	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7711	NDUFS4	NADH:ubiquinone oxidoreductase subunit S4			5q11.2	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7712	NDUFS5	NADH:ubiquinone oxidoreductase subunit S5			1p34.3	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7713	NDUFS6	NADH:ubiquinone oxidoreductase subunit S6			5p15.33	NADH:ubiquinone oxidoreductase supernumerary subunits
+HGNC:7719	NDUFV3	NADH:ubiquinone oxidoreductase subunit V3			21q22.3	NADH:ubiquinone oxidoreductase supernumerary subunits

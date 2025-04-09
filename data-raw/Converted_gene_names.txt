@@ -1,0 +1,304 @@
+Input	Match type	Approved symbol	Approved name	HGNC ID	Location
+ACVR2A	Approved symbol	ACVR2A	activin A receptor type 2A	HGNC:173	2q22.3-q23.1
+ACVR2B	Approved symbol	ACVR2B	activin A receptor type 2B	HGNC:174	3p22.2
+AKT1	Approved symbol	AKT1	AKT serine/threonine kinase 1	HGNC:391	14q32.33
+AKT2	Approved symbol	AKT2	AKT serine/threonine kinase 2	HGNC:392	19q13.2
+AKT3	Approved symbol	AKT3	AKT serine/threonine kinase 3	HGNC:393	1q43-q44
+ALK2	Alias symbol	ACVR1	activin A receptor type 1	HGNC:171	2q24.1
+ALK4	Alias symbol	ACVR1B	activin A receptor type 1B	HGNC:172	12q13.13
+AlphaK3	Unmatched	ALPK1			
+AMPKA1	Alias symbol	PRKAA1	protein kinase AMP-activated catalytic subunit alpha 1	HGNC:9376	5p13.1
+AMPKA2	Alias symbol	PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2	HGNC:9377	1p32.2
+ANKRD3	Previous symbol	RIPK4	receptor interacting serine/threonine kinase 4	HGNC:496	21q22.3
+ASK1	Alias symbol	MAP3K5	mitogen-activated protein kinase kinase kinase 5	HGNC:6857	6q23.3
+ATM	Approved symbol	ATM	ATM serine/threonine kinase	HGNC:795	11q22.3
+ATR	Approved symbol	ATR	ATR serine/threonine kinase	HGNC:882	3q23
+AURA	Alias symbol	AURKA	aurora kinase A	HGNC:11393	20q13.2
+AURB	Alias symbol	AURKB	aurora kinase B	HGNC:11390	17p13.1
+AURC	Alias symbol	AURKC	aurora kinase C	HGNC:11391	19q13.43
+BCKDK	Approved symbol	BCKDK	branched chain keto acid dehydrogenase kinase	HGNC:16902	16p11.2
+BIKE	Alias symbol	BMP2K	BMP2 inducible kinase	HGNC:18041	4q21.21
+BMPR1A	Approved symbol	BMPR1A	bone morphogenetic protein receptor type 1A	HGNC:1076	10q23.2
+BMPR1B	Approved symbol	BMPR1B	bone morphogenetic protein receptor type 1B	HGNC:1077	4q22.3
+BMPR2	Approved symbol	BMPR2	bone morphogenetic protein receptor type 2	HGNC:1078	2q33.1-q33.2
+BRAF	Approved symbol	BRAF	B-Raf proto-oncogene, serine/threonine kinase	HGNC:1097	7q34
+BRSK1	Approved symbol	BRSK1	BR serine/threonine kinase 1	HGNC:18994	19q13.42
+BRSK2	Approved symbol	BRSK2	BR serine/threonine kinase 2	HGNC:11405	11p15.5
+BUB1	Approved symbol	BUB1	BUB1 mitotic checkpoint serine/threonine kinase	HGNC:1148	2q13
+CAMK1A	Unmatched	CAMK1			
+CAMK1B	Alias symbol	PNCK	pregnancy up-regulated nonubiquitous CaM kinase	HGNC:13415	Xq28
+CAMK1D	Approved symbol	CAMK1D	calcium/calmodulin dependent protein kinase ID	HGNC:19341	10p13
+CAMK1G	Approved symbol	CAMK1G	calcium/calmodulin dependent protein kinase IG	HGNC:14585	1q32.2
+CAMK2A	Approved symbol	CAMK2A	calcium/calmodulin dependent protein kinase II alpha	HGNC:1460	5q32
+CAMK2B	Approved symbol	CAMK2B	calcium/calmodulin dependent protein kinase II beta	HGNC:1461	7p13
+CAMK2D	Approved symbol	CAMK2D	calcium/calmodulin dependent protein kinase II delta	HGNC:1462	4q26
+CAMK2G	Approved symbol	CAMK2G	calcium/calmodulin dependent protein kinase II gamma	HGNC:1463	10q22.2
+CAMK4	Approved symbol	CAMK4	calcium/calmodulin dependent protein kinase IV	HGNC:1464	5q22.1
+CAMKK1	Approved symbol	CAMKK1	calcium/calmodulin dependent protein kinase kinase 1	HGNC:1469	17p13.2
+CAMKK2	Approved symbol	CAMKK2	calcium/calmodulin dependent protein kinase kinase 2	HGNC:1470	12q24.31
+caMLCK	Alias symbol	MYLK3	myosin light chain kinase 3	HGNC:29826	16q11.2
+CDC7	Approved symbol	CDC7	cell division cycle 7	HGNC:1745	1p22.1
+CDK1	Approved symbol	CDK1	cyclin dependent kinase 1	HGNC:1722	10q21.2
+CDK10	Approved symbol	CDK10	cyclin dependent kinase 10	HGNC:1770	16q24.3
+CDK12	Approved symbol	CDK12	cyclin dependent kinase 12	HGNC:24224	17q12
+CDK13	Approved symbol	CDK13	cyclin dependent kinase 13	HGNC:1733	7p14.1
+CDK14	Approved symbol	CDK14	cyclin dependent kinase 14	HGNC:8883	7q21.13
+CDK16	Approved symbol	CDK16	cyclin dependent kinase 16	HGNC:8749	Xp11.3
+CDK17	Approved symbol	CDK17	cyclin dependent kinase 17	HGNC:8750	12q23.1
+CDK18	Approved symbol	CDK18	cyclin dependent kinase 18	HGNC:8751	1q32.1
+CDK19	Approved symbol	CDK19	cyclin dependent kinase 19	HGNC:19338	6q21
+CDK2	Approved symbol	CDK2	cyclin dependent kinase 2	HGNC:1771	12q13.2
+CDK3	Approved symbol	CDK3	cyclin dependent kinase 3	HGNC:1772	17q25.1
+CDK4	Approved symbol	CDK4	cyclin dependent kinase 4	HGNC:1773	12q14.1
+CDK5	Approved symbol	CDK5	cyclin dependent kinase 5	HGNC:1774	7q36.1
+CDK6	Approved symbol	CDK6	cyclin dependent kinase 6	HGNC:1777	7q21.2
+CDK7	Approved symbol	CDK7	cyclin dependent kinase 7	HGNC:1778	5q13.2
+CDK8	Approved symbol	CDK8	cyclin dependent kinase 8	HGNC:1779	13q12.13
+CDK9	Approved symbol	CDK9	cyclin dependent kinase 9	HGNC:1780	9q34.11
+CDKL1	Approved symbol	CDKL1	cyclin dependent kinase like 1	HGNC:1781	14q21.3
+CDKL5	Approved symbol	CDKL5	cyclin dependent kinase like 5	HGNC:11411	Xp22.13
+CHAK1	Alias symbol	TRPM7	transient receptor potential cation channel subfamily M member 7	HGNC:17994	15q21.2
+CHAK2	Alias symbol	TRPM6	transient receptor potential cation channel subfamily M member 6	HGNC:17995	9q21.13
+CHK1	Alias symbol	CHEK1	checkpoint kinase 1	HGNC:1925	11q24.2
+CHK2	Alias symbol	CHEK2	checkpoint kinase 2	HGNC:16627	22q12.1
+CK1A	Alias symbol	CSNK1A1	casein kinase 1 alpha 1	HGNC:2451	5q32
+CK1A2	Unmatched	CSNK1A1L			
+CK1D	Unmatched	CSNK1D			
+CK1E	Unmatched	CSNK1E			
+CK1G1	Unmatched	CSNK1G1			
+CK1G2	Alias symbol	CSNK1G2	casein kinase 1 gamma 2	HGNC:2455	19p13.3
+CK1G3	Unmatched	CSNK1G3			
+CK2A1	Unmatched	CSNK2A1			
+CK2A2	Unmatched	CSNK2A2			
+CLK1	Approved symbol	CLK1	CDC like kinase 1	HGNC:2068	2q33.1
+CLK2	Approved symbol	CLK2	CDC like kinase 2	HGNC:2069	1q22
+CLK3	Approved symbol	CLK3	CDC like kinase 3	HGNC:2071	15q24.1
+CLK4	Approved symbol	CLK4	CDC like kinase 4	HGNC:13659	5q35.3
+COT	Previous symbol	MAP3K8	mitogen-activated protein kinase kinase kinase 8	HGNC:6860	10p11.23
+CRIK	Alias symbol	CIT	citron rho-interacting serine/threonine kinase	HGNC:1985	12q24.23
+DAPK1	Approved symbol	DAPK1	death associated protein kinase 1	HGNC:2674	9q21.33
+DAPK2	Approved symbol	DAPK2	death associated protein kinase 2	HGNC:2675	15q22.31
+DAPK3	Approved symbol	DAPK3	death associated protein kinase 3	HGNC:2676	19p13.3
+DCAMKL1	Previous symbol	DCLK1	doublecortin like kinase 1	HGNC:2700	13q13.3
+DCAMKL2	Previous symbol	DCLK2	doublecortin like kinase 2	HGNC:19002	4q31.23-q31.3
+DLK	Alias symbol	MAP3K12	mitogen-activated protein kinase kinase kinase 12	HGNC:6851	12q13.13
+DMPK1	Unmatched	DMPK			
+DNAPK	Alias symbol	PRKDC	protein kinase, DNA-activated, catalytic subunit	HGNC:9413	8q11.21
+DRAK1	Alias symbol	STK17A	serine/threonine kinase 17a	HGNC:11395	7p13
+DSTYK	Approved symbol	DSTYK	dual serine/threonine and tyrosine protein kinase	HGNC:29043	1q32.1
+DYRK1A	Approved symbol	DYRK1A	dual specificity tyrosine phosphorylation regulated kinase 1A	HGNC:3091	21q22.13
+DYRK1B	Approved symbol	DYRK1B	dual specificity tyrosine phosphorylation regulated kinase 1B	HGNC:3092	19q13.2
+DYRK2	Approved symbol	DYRK2	dual specificity tyrosine phosphorylation regulated kinase 2	HGNC:3093	12q15
+DYRK3	Approved symbol	DYRK3	dual specificity tyrosine phosphorylation regulated kinase 3	HGNC:3094	1q32.1
+DYRK4	Approved symbol	DYRK4	dual specificity tyrosine phosphorylation regulated kinase 4	HGNC:3095	12p13.32
+EEF2K	Approved symbol	EEF2K	eukaryotic elongation factor 2 kinase	HGNC:24615	16p12.2
+ERK1	Alias symbol	MAPK3	mitogen-activated protein kinase 3	HGNC:6877	16p11.2
+ERK2	Alias symbol	MAPK1	mitogen-activated protein kinase 1	HGNC:6871	22q11.22
+ERK5	Alias symbol	MAPK7	mitogen-activated protein kinase 7	HGNC:6880	17p11.2
+ERK7	Alias symbol	MAPK15	mitogen-activated protein kinase 15	HGNC:24667	8q24.3
+FAM20C	Approved symbol	FAM20C	FAM20C golgi associated secretory pathway kinase	HGNC:22140	7p22.3
+GAK	Approved symbol	GAK	cyclin G associated kinase	HGNC:4113	4p16.3
+GCK	Approved symbol	GCK	glucokinase	HGNC:4195	7p13
+GCN2	Alias symbol	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	HGNC:19687	15q15.1
+GRK1	Approved symbol	GRK1	G protein-coupled receptor kinase 1	HGNC:10013	13q34
+GRK2	Approved symbol	GRK2	G protein-coupled receptor kinase 2	HGNC:289	11q13.2
+GRK3	Approved symbol	GRK3	G protein-coupled receptor kinase 3	HGNC:290	22q12.1
+GRK4	Approved symbol	GRK4	G protein-coupled receptor kinase 4	HGNC:4543	4p16.3
+GRK5	Approved symbol	GRK5	G protein-coupled receptor kinase 5	HGNC:4544	10q26.11
+GRK6	Approved symbol	GRK6	G protein-coupled receptor kinase 6	HGNC:4545	5q35.3
+GRK7	Approved symbol	GRK7	G protein-coupled receptor kinase 7	HGNC:17031	3q23
+GSK3A	Approved symbol	GSK3A	glycogen synthase kinase 3 alpha	HGNC:4616	19q13.2
+GSK3B	Approved symbol	GSK3B	glycogen synthase kinase 3 beta	HGNC:4617	3q13.33
+HASPIN	Approved symbol	HASPIN	histone H3 associated protein kinase	HGNC:19682	17p13.2
+HGK	Alias symbol	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4	HGNC:6866	2q11.2
+HIPK1	Approved symbol	HIPK1	homeodomain interacting protein kinase 1	HGNC:19006	1p13.2
+HIPK2	Approved symbol	HIPK2	homeodomain interacting protein kinase 2	HGNC:14402	7q34
+HIPK3	Approved symbol	HIPK3	homeodomain interacting protein kinase 3	HGNC:4915	11p13
+HIPK4	Approved symbol	HIPK4	homeodomain interacting protein kinase 4	HGNC:19007	19q13.2
+HPK1	Alias symbol	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	HGNC:6863	19q13.2
+HRI	Alias symbol	EIF2AK1	eukaryotic translation initiation factor 2 alpha kinase 1	HGNC:24921	7p22.1
+HUNK	Approved symbol	HUNK	hormonally up-regulated Neu-associated kinase	HGNC:13326	21q22.11
+ICK	Previous symbol	CILK1	ciliogenesis associated kinase 1	HGNC:21219	6p12.1
+IKKA	Alias symbol	CHUK	component of inhibitor of nuclear factor kappa B kinase complex	HGNC:1974	10q24.31
+IKKB	Alias symbol	IKBKB	inhibitor of nuclear factor kappa B kinase subunit beta	HGNC:5960	8p11.21
+IKKE	Alias symbol	IKBKE	inhibitor of nuclear factor kappa B kinase subunit epsilon	HGNC:14552	1q32.1
+IRAK1	Approved symbol	IRAK1	interleukin 1 receptor associated kinase 1	HGNC:6112	Xq28
+IRAK4	Approved symbol	IRAK4	interleukin 1 receptor associated kinase 4	HGNC:17967	12q12
+IRE1	Alias symbol	ERN1	endoplasmic reticulum to nucleus signaling 1	HGNC:3449	17q23.3
+IRE2	Unmatched	ERN2			
+JNK1	Alias symbol	MAPK8	mitogen-activated protein kinase 8	HGNC:6881	10q11.22
+JNK2	Alias symbol	MAPK9	mitogen-activated protein kinase 9	HGNC:6886	5q35.3
+JNK3	Alias symbol	MAPK10	mitogen-activated protein kinase 10	HGNC:6872	4q21.3
+KHS1	Alias symbol	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5	HGNC:6867	14q22.1
+KHS2	Unmatched	MAP4K3			
+KIS	Alias symbol	UHMK1	U2AF homology motif kinase 1	HGNC:19683	1q23.3
+LATS1	Approved symbol	LATS1	large tumor suppressor kinase 1	HGNC:6514	6q25.1
+LATS2	Approved symbol	LATS2	large tumor suppressor kinase 2	HGNC:6515	13q12.11
+LKB1	Alias symbol	STK11	serine/threonine kinase 11	HGNC:11389	19p13.3
+LOK	Alias symbol	STK10	serine/threonine kinase 10	HGNC:11388	5q35.1
+LRRK2	Approved symbol	LRRK2	leucine rich repeat kinase 2	HGNC:18618	12q12
+MAK	Approved symbol	MAK	male germ cell associated kinase	HGNC:6816	6p24.2
+MAP3K15	Approved symbol	MAP3K15	mitogen-activated protein kinase kinase kinase 15	HGNC:31689	Xp22.12
+MAPKAPK2	Approved symbol	MAPKAPK2	MAPK activated protein kinase 2	HGNC:6887	1q32.1
+MAPKAPK3	Approved symbol	MAPKAPK3	MAPK activated protein kinase 3	HGNC:6888	3p21.2
+MAPKAPK5	Approved symbol	MAPKAPK5	MAPK activated protein kinase 5	HGNC:6889	12q24.12-q24.13
+MARK1	Approved symbol	MARK1	microtubule affinity regulating kinase 1	HGNC:6896	1q41
+MARK2	Approved symbol	MARK2	microtubule affinity regulating kinase 2	HGNC:3332	11q13.1
+MARK3	Approved symbol	MARK3	microtubule affinity regulating kinase 3	HGNC:6897	14q32.32-q32.33
+MARK4	Approved symbol	MARK4	microtubule affinity regulating kinase 4	HGNC:13538	19q13.32
+MASTL	Approved symbol	MASTL	microtubule associated serine/threonine kinase like	HGNC:19042	10p12.1
+MEK1	Alias symbol	MAP2K1	mitogen-activated protein kinase kinase 1	HGNC:6840	15q22.31
+MEK2	Alias symbol	MAP2K2	mitogen-activated protein kinase kinase 2	HGNC:6842	19p13.3
+MEK5	Alias symbol	MAP2K5	mitogen-activated protein kinase kinase 5	HGNC:6845	15q23
+MEKK1	Previous symbol	MAP3K1	mitogen-activated protein kinase kinase kinase 1	HGNC:6848	5q11.2
+MEKK2	Previous symbol	MAP3K2	mitogen-activated protein kinase kinase kinase 2	HGNC:6854	2q14.3
+MEKK3	Previous symbol	MAP3K3	mitogen-activated protein kinase kinase kinase 3	HGNC:6855	17q23.3
+MEKK6	Alias symbol	MAP3K6	mitogen-activated protein kinase kinase kinase 6	HGNC:6858	1p36.11
+MELK	Approved symbol	MELK	maternal embryonic leucine zipper kinase	HGNC:16870	9p13.2
+MINK	Alias symbol	MINK1	misshapen like kinase 1	HGNC:17565	17p13.2
+MLK1	Previous symbol	MAP3K9	mitogen-activated protein kinase kinase kinase 9	HGNC:6861	14q24.2
+MLK2	Previous symbol	MAP3K10	mitogen-activated protein kinase kinase kinase 10	HGNC:6849	19q13.2
+MLK3	Previous symbol	MAP3K11	mitogen-activated protein kinase kinase kinase 11	HGNC:6850	11q13.1
+MLK4	Alias symbol	MAP3K21	mitogen-activated protein kinase kinase kinase 21	HGNC:29798	1q42.2
+MNK1	Alias symbol	MKNK1	MAPK interacting serine/threonine kinase 1	HGNC:7110	1p33
+MNK2	Alias symbol	MKNK2	MAPK interacting serine/threonine kinase 2	HGNC:7111	19p13.3
+MOK	Approved symbol	MOK	MOK protein kinase	HGNC:9833	14q32.31
+MOS	Approved symbol	MOS	MOS proto-oncogene, serine/threonine kinase	HGNC:7199	8q12.1
+MPSK1	Unmatched	STK16			
+MRCKA	Alias symbol	CDC42BPA	CDC42 binding protein kinase alpha	HGNC:1737	1q42.13
+MRCKB	Alias symbol	CDC42BPB	CDC42 binding protein kinase beta	HGNC:1738	14q32.32
+MSK1	Alias symbol	RPS6KA5	ribosomal protein S6 kinase A5	HGNC:10434	14q32.11
+MSK2	Alias symbol	RPS6KA4	ribosomal protein S6 kinase A4	HGNC:10433	11q13.1
+MST1	Approved symbol	MST1	macrophage stimulating 1	HGNC:7380	3p21.31
+MST2	Alias symbol	STK3	serine/threonine kinase 3	HGNC:11406	8q22.2
+MST3	Alias symbol	STK24	serine/threonine kinase 24	HGNC:11403	13q32.2
+MST4	Alias symbol	STK26	serine/threonine kinase 26	HGNC:18174	Xq26.2
+MTOR	Approved symbol	MTOR	mechanistic target of rapamycin kinase	HGNC:3942	1p36.22
+MYLK4	Approved symbol	MYLK4	myosin light chain kinase family member 4	HGNC:27972	6p25.2
+MYO3A	Approved symbol	MYO3A	myosin IIIA	HGNC:7601	10p12.1
+MYO3B	Approved symbol	MYO3B	myosin IIIB	HGNC:15576	2q31.1
+NDR1	Alias symbol	STK38	serine/threonine kinase 38	HGNC:17847	6p21.31
+NDR2	Alias symbol	STK38L	serine/threonine kinase 38 like	HGNC:17848	12p11.23
+NEK1	Approved symbol	NEK1	NIMA related kinase 1	HGNC:7744	4q33
+NEK11	Approved symbol	NEK11	NIMA related kinase 11	HGNC:18593	3q22.1
+NEK2	Approved symbol	NEK2	NIMA related kinase 2	HGNC:7745	1q32.3
+NEK3	Approved symbol	NEK3	NIMA related kinase 3	HGNC:7746	13q14.3
+NEK4	Approved symbol	NEK4	NIMA related kinase 4	HGNC:11399	3p21.1
+NEK5	Approved symbol	NEK5	NIMA related kinase 5	HGNC:7748	13q14.3
+NEK6	Approved symbol	NEK6	NIMA related kinase 6	HGNC:7749	9q33.3
+NEK7	Approved symbol	NEK7	NIMA related kinase 7	HGNC:13386	1q31.3
+NEK8	Approved symbol	NEK8	NIMA related kinase 8	HGNC:13387	17q11.2
+NEK9	Approved symbol	NEK9	NIMA related kinase 9	HGNC:18591	14q24.3
+NIK	Alias symbol	MAP3K14	mitogen-activated protein kinase kinase kinase 14	HGNC:6853	17q21.31
+NIM1	Alias symbol	NIM1K	NIM1 serine/threonine protein kinase	HGNC:28646	5p12
+NLK	Approved symbol	NLK	nemo like kinase	HGNC:29858	17q11.2
+NUAK1	Approved symbol	NUAK1	NUAK family kinase 1	HGNC:14311	12q23.3
+NUAK2	Approved symbol	NUAK2	NUAK family kinase 2	HGNC:29558	1q32.1
+OSR1	Previous symbol	OXSR1	oxidative stress responsive kinase 1	HGNC:8508	3p22.2
+P38A	Unmatched	MAPK14			
+P38B	Unmatched	MAPK11			
+P38D	Unmatched	MAPK13			
+P38G	Unmatched	MAPK12			
+P70S6K	Unmatched	RPS6KB1			
+P70S6KB	Alias symbol	RPS6KB2	ribosomal protein S6 kinase B2	HGNC:10437	11q13.2
+P90RSK	Alias symbol	RPS6KA1	ribosomal protein S6 kinase A1	HGNC:10430	1p36.11
+PAK1	Approved symbol	PAK1	p21 (RAC1) activated kinase 1	HGNC:8590	11q13.5-q14.1
+PAK2	Approved symbol	PAK2	p21 (RAC1) activated kinase 2	HGNC:8591	3q29
+PAK3	Approved symbol	PAK3	p21 (RAC1) activated kinase 3	HGNC:8592	Xq23
+PAK4	Approved symbol	PAK4	p21 (RAC1) activated kinase 4	HGNC:16059	19q13.2
+PAK5	Approved symbol	PAK5	p21 (RAC1) activated kinase 5	HGNC:15916	20p12.2
+PAK6	Approved symbol	PAK6	p21 (RAC1) activated kinase 6	HGNC:16061	15q15.1
+PASK	Approved symbol	PASK	PAS domain containing serine/threonine kinase	HGNC:17270	2q37.3
+PBK	Approved symbol	PBK	PDZ binding kinase	HGNC:18282	8p21.1
+PDHK1	Unmatched	PDK1			
+PDHK4	Unmatched	PDK4			
+PDK1	Approved symbol	PDK1	pyruvate dehydrogenase kinase 1	HGNC:8809	2q31.1
+PERK	Alias symbol	EIF2AK3	eukaryotic translation initiation factor 2 alpha kinase 3	HGNC:3255	2p11.2
+PHKG1	Approved symbol	PHKG1	phosphorylase kinase catalytic subunit gamma 1	HGNC:8930	7p11.2
+PHKG2	Approved symbol	PHKG2	phosphorylase kinase catalytic subunit gamma 2	HGNC:8931	16p11.2
+PIM1	Approved symbol	PIM1	Pim-1 proto-oncogene, serine/threonine kinase	HGNC:8986	6p21.2
+PIM2	Approved symbol	PIM2	Pim-2 proto-oncogene, serine/threonine kinase	HGNC:8987	Xp11.23
+PIM3	Approved symbol	PIM3	Pim-3 proto-oncogene, serine/threonine kinase	HGNC:19310	22q13.33
+PINK1	Approved symbol	PINK1	PTEN induced kinase 1	HGNC:14581	1p36.12
+PKACA	Alias symbol	PRKACA	protein kinase cAMP-activated catalytic subunit alpha	HGNC:9380	19p13.12
+PKACB	Alias symbol	PRKACB	protein kinase cAMP-activated catalytic subunit beta	HGNC:9381	1p31.1
+PKACG	Alias symbol	PRKACG	protein kinase cAMP-activated catalytic subunit gamma	HGNC:9382	9q21.11
+PKCA	Previous symbol	PRKCA	protein kinase C alpha	HGNC:9393	17q24.2
+PKCB	Previous symbol	PRKCB	protein kinase C beta	HGNC:9395	16p12.2-p12.1
+PKCD	Unmatched	PRKCD			
+PKCE	Unmatched	PRKCE			
+PKCG	Previous symbol	PRKCG	protein kinase C gamma	HGNC:9402	19q13.42
+PKCH	Unmatched	PRKCH			
+PKCI	Alias symbol	PRKCI	protein kinase C iota	HGNC:9404	3q26.2
+PKCT	Unmatched	PRKCT			
+PKCZ	Unmatched	PRKCZ			
+PKG1	Alias symbol	PRKG1	protein kinase cGMP-dependent 1	HGNC:9414	10q11.23-q21.1
+PKG2	Alias symbol	PRKG2	protein kinase cGMP-dependent 2	HGNC:9416	4q21.21
+PKN1	Approved symbol	PKN1	protein kinase N1	HGNC:9405	19p13.12
+PKN2	Approved symbol	PKN2	protein kinase N2	HGNC:9406	1p22.2
+PKN3	Approved symbol	PKN3	protein kinase N3	HGNC:17999	9q34.11
+PKR	Alias symbol	EIF2AK2	eukaryotic translation initiation factor 2 alpha kinase 2	HGNC:9437	2p22.2
+PLK1	Approved symbol	PLK1	polo like kinase 1	HGNC:9077	16p12.2
+PLK2	Approved symbol	PLK2	polo like kinase 2	HGNC:19699	5q11.2
+PLK3	Approved symbol	PLK3	polo like kinase 3	HGNC:2154	1p34.1
+PLK4	Approved symbol	PLK4	polo like kinase 4	HGNC:11397	4q28.1
+PRKD1	Approved symbol	PRKD1	protein kinase D1	HGNC:9407	14q12
+PRKD2	Approved symbol	PRKD2	protein kinase D2	HGNC:17293	19q13.32
+PRKD3	Approved symbol	PRKD3	protein kinase D3	HGNC:9408	2p22.2
+PRKX	Approved symbol	PRKX	protein kinase cAMP-dependent X-linked catalytic subunit	HGNC:9441	Xp22.33
+PRP4	Alias symbol	PRPF4	pre-mRNA processing factor 4	HGNC:17349	9q32
+PRPK	Alias symbol	TP53RK	TP53 regulating kinase	HGNC:16197	20q13.12
+QIK	Alias symbol	SIK2	salt inducible kinase 2	HGNC:21680	11q23.1
+QSK	Alias symbol	SIK3	SIK family kinase 3	HGNC:29165	11q23.3
+RAF1	Approved symbol	RAF1	Raf-1 proto-oncogene, serine/threonine kinase	HGNC:9829	3p25.2
+RIPK1	Approved symbol	RIPK1	receptor interacting serine/threonine kinase 1	HGNC:10019	6p25.2
+RIPK2	Approved symbol	RIPK2	receptor interacting serine/threonine kinase 2	HGNC:10020	8q21.3
+RIPK3	Approved symbol	RIPK3	receptor interacting serine/threonine kinase 3	HGNC:10021	14q12
+ROCK1	Approved symbol	ROCK1	Rho associated coiled-coil containing protein kinase 1	HGNC:10251	18q11.1
+ROCK2	Approved symbol	ROCK2	Rho associated coiled-coil containing protein kinase 2	HGNC:10252	2p25.1
+RSK2	Alias symbol	RPS6KA3	ribosomal protein S6 kinase A3	HGNC:10432	Xp22.12
+RSK3	Alias symbol	RPS6KA2	ribosomal protein S6 kinase A2	HGNC:10431	6q27
+RSK4	Alias symbol	RPS6KA6	ribosomal protein S6 kinase A6	HGNC:10435	Xq21.1
+SBK	Alias symbol	SBK1	SH3 domain binding kinase 1	HGNC:17699	16p12.1
+SGK1	Approved symbol	SGK1	serum/glucocorticoid regulated kinase 1	HGNC:10810	6q23.2
+SGK3	Approved symbol	SGK3	serum/glucocorticoid regulated kinase family member 3	HGNC:10812	8q13.1
+SIK	Unmatched	SIK1			
+skMLCK	Alias symbol	MYLK2	myosin light chain kinase 2	HGNC:16243	20q11.21
+SLK	Approved symbol	SLK	STE20 like kinase	HGNC:11088	10q24.33-q25.1
+SMG1	Approved symbol	SMG1	SMG1 nonsense mediated mRNA decay associated PI3K related kinase	HGNC:30045	16p12.3
+smMLCK	Alias symbol	MYLK	myosin light chain kinase	HGNC:7590	3q21.1
+SNRK	Approved symbol	SNRK	SNF related kinase	HGNC:30598	3p22.1
+SRPK1	Approved symbol	SRPK1	SRSF protein kinase 1	HGNC:11305	6p21.31
+SRPK2	Approved symbol	SRPK2	SRSF protein kinase 2	HGNC:11306	7q22.3
+SRPK3	Approved symbol	SRPK3	SRSF protein kinase 3	HGNC:11402	Xq28
+SSTK	Alias symbol	TSSK6	testis specific serine kinase 6	HGNC:30410	19p13.11
+STK33	Approved symbol	STK33	serine/threonine kinase 33	HGNC:14568	11p15.4
+STLK3	Unmatched	STK39			
+TAK1	Alias symbol	NR2C2	nuclear receptor subfamily 2 group C member 2	HGNC:7972	3p25.1
+TAO1	Alias symbol	TAOK1	TAO kinase 1	HGNC:29259	17q11.2
+TAO2	Alias symbol	TAOK2	TAO kinase 2	HGNC:16835	16p11.2
+TAO3	Unmatched	TAOK3			
+TBK1	Approved symbol	TBK1	TANK binding kinase 1	HGNC:11584	12q14.2
+TGFBR1	Approved symbol	TGFBR1	transforming growth factor beta receptor 1	HGNC:11772	9q22.33
+TGFBR2	Approved symbol	TGFBR2	transforming growth factor beta receptor 2	HGNC:11773	3p24.1
+TLK1	Approved symbol	TLK1	tousled like kinase 1	HGNC:11841	2q31.1
+TLK2	Approved symbol	TLK2	tousled like kinase 2	HGNC:11842	17q23.2
+TNIK	Approved symbol	TNIK	TRAF2 and NCK interacting kinase	HGNC:30765	3q26.2-q26.31
+TSSK1	Previous symbol	TSSK1B	testis specific serine kinase 1B	HGNC:14968	5q22.2
+TSSK2	Approved symbol	TSSK2	testis specific serine kinase 2	HGNC:11401	22q11.21
+TTBK1	Approved symbol	TTBK1	tau tubulin kinase 1	HGNC:19140	6p21.1
+TTBK2	Approved symbol	TTBK2	tau tubulin kinase 2	HGNC:19141	15q15.2
+TTK	Approved symbol	TTK	TTK protein kinase	HGNC:12401	6q14.1
+ULK1	Approved symbol	ULK1	unc-51 like autophagy activating kinase 1	HGNC:12558	12q24.33
+ULK2	Approved symbol	ULK2	unc-51 like autophagy activating kinase 2	HGNC:13480	17p11.2
+VRK1	Approved symbol	VRK1	VRK serine/threonine kinase 1	HGNC:12718	14q32.2
+VRK2	Approved symbol	VRK2	VRK serine/threonine kinase 2	HGNC:12719	2p16.1
+WNK1	Approved symbol	WNK1	WNK lysine deficient protein kinase 1	HGNC:14540	12p13.33
+WNK3	Approved symbol	WNK3	WNK lysine deficient protein kinase 3	HGNC:14543	Xp11.22
+WNK4	Approved symbol	WNK4	WNK lysine deficient protein kinase 4	HGNC:14544	17q21.2
+YANK2	Alias symbol	STK32B	serine/threonine kinase 32B	HGNC:14217	4p16.2
+YANK3	Alias symbol	STK32C	serine/threonine kinase 32C	HGNC:21332	10q26.3
+YSK1	Alias symbol	STK25	serine/threonine kinase 25	HGNC:11404	2q37.3
+YSK4	Previous symbol	MAP3K19	mitogen-activated protein kinase kinase kinase 19	HGNC:26249	2q21.3
+ZAK	Alias symbol	MAP3K20	mitogen-activated protein kinase kinase kinase 20	HGNC:17797	2q31.1
+AAK1	Approved symbol	AAK1	AP2 associated kinase 1	HGNC:19679	2p13.3
