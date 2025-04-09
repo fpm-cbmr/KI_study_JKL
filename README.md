@@ -1,34 +1,13 @@
-TODO: Add more to the title of your project here
+# Project Title
 
-# KI_study_JKL:
+This repository contains the R code and data used for the publication:
+"Personalized Molecular Signatures of Insulin Resistance and Type 2 Diabetes"
 
-TODO: Give a brief description of what your project is about
+## Repository Structure
 
-Phosphoproteomics data files (in data-raw/) are not uploaded due to size restrictions. Please contact the author for access 
+- `R/` – All R scripts
+- `data/` – Processed data files (RData, rds, etc.)
+- `data-raw/` – Raw data (non-committed large phospho files available upon request)
 
-# Brief description of folder and file contents
-
-TODO: As project evolves, add brief description of what is inside the data, doc and R folders.
-
-The following folders contain:
-
-- `data/`:
-- `doc/`:
-- `R/`:
-
-# Installing project R package dependencies
-
-If dependencies have been managed by using `usethis::use_package("packagename")`
-through the `DESCRIPTION` file, installing dependencies is as easy as opening the
-`KI_study_JKL.Rproj` file and running this command in the console:
-
-    # install.packages("remotes")
-    remotes::install_deps()
-
-You'll need to have remotes installed for this to work.
-
-# Resource
-
-For more information on this folder and file workflow and setup, check
-out the [prodigenr](https://rostools.github.io/prodigenr) online
-documentation.
+## Contact
+For questions, please contact jeppe.larsen@sund.ku.dk
